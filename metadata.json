@@ -1,0 +1,7 @@
+{
+  "name": "Nour - Muslim Companion",
+  "description": "A comprehensive Islamic application featuring Morning & Evening Adhkar, a digital Tasbeeh counter, and a Quran player/reader with a beautiful, serene UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
